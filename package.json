@@ -1,0 +1,28 @@
+{
+  "name": "electron-learning",
+  "version": "1.0.0",
+  "description": "my electron app dev learning journey",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayv2002/electron-learning.git"
+  },
+  "keywords": [
+    "electron",
+    "code",
+    "awesome"
+  ],
+  "author": "sanjay kumar v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanjayv2002/electron-learning/issues"
+  },
+  "homepage": "https://github.com/sanjayv2002/electron-learning#readme",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
